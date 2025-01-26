@@ -11,7 +11,7 @@ void testMethod1()
 
 void testMethod2()
   {
-  // First command x = //to be filled in by student
+  // First command x = //change made by San
   // Second command 
   // Third command
 }
